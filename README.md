@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Reactjs
 - Here is my LeetCode stats
 
-![](https://leetcard.jacoblin.cool/techfreak998?theme=unicorn?font=dancing_script?border=0&radius=40)
+![](https://leetcard.jacoblin.cool/techfreak998?font=dancing_script)
